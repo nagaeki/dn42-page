@@ -1,0 +1,12 @@
+---
+main:
+  - name: Home
+    ref: "/home"
+  - name: Peering Contact
+    ref: "/peering-contact"
+  - name: Node Information
+    ref: "/node-information"
+  - name: Network Design
+    ref: "/network-design"
+  - name: Services
+    ref: "/services"
