@@ -3,6 +3,12 @@ title: Home
 date: 2023-02-13T14:42+08:00
 ---
 
+# Ceasing Operations
+
+As of April 30, 2023, EKI-Network has ceased operations.
+
+Thank you all for great memories.
+
 # Peering with EKI-Network
 
 This page will provide basic information to get started on peering with EKI-Network in DN42.

@@ -1,6 +1,6 @@
 baseURL = 'https://dn42.eki.moe/'
 languageCode = 'en-us'
-title = 'DN42 EKI-Network'
+title = 'DN42 EKI-Network (Ceased Operations)'
 theme = "hugo-geekdoc"
 
 pluralizeListTitles = false
